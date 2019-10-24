@@ -22,6 +22,7 @@ export default class BlogModal extends Component {
         backgroundColor: "rgba(1, 1, 1, 0.75)"
       }
     };
+
     this.handleSuccessfullFormSubmission = this.handleSuccessfullFormSubmission.bind(
       this
     );
